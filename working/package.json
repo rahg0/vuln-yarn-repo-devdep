@@ -1,0 +1,5 @@
+{
+  "name": "replication-node-app",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
